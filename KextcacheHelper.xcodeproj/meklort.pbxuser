@@ -1,0 +1,199 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* KextcacheHelper */;
+		addToTargets = (
+		);
+		codeSenseManager = 27CFE46E127143100077BAEE /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					768,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314396921;
+			PBXWorkspaceStateSaveDate = 314396921;
+		};
+		perUserProjectItems = {
+			2715EAD212BD4E3600B8FA2B /* PBXTextBookmark */ = 2715EAD212BD4E3600B8FA2B /* PBXTextBookmark */;
+			2715EADE12BD511200B8FA2B /* PBXTextBookmark */ = 2715EADE12BD511200B8FA2B /* PBXTextBookmark */;
+			2715EADF12BD511200B8FA2B /* PlistBookmark */ = 2715EADF12BD511200B8FA2B /* PlistBookmark */;
+			2715EAE512BD511B00B8FA2B /* PlistBookmark */ = 2715EAE512BD511B00B8FA2B /* PlistBookmark */;
+			2715EAE612BD511B00B8FA2B /* PBXTextBookmark */ = 2715EAE612BD511B00B8FA2B /* PBXTextBookmark */;
+			274B022F12B069530047ABD5 /* PBXTextBookmark */ = 274B022F12B069530047ABD5 /* PBXTextBookmark */;
+			27CFE4751271434B0077BAEE /* PBXTextBookmark */ = 27CFE4751271434B0077BAEE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27CFE46D127143100077BAEE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* KextcacheHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {990, 650}}";
+			sepNavSelRange = "{784, 0}";
+			sepNavVisRange = "{0, 821}";
+			sepNavWindowFrame = "{{15, 0}, {1049, 778}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* KextcacheHelper.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 2340}}";
+			sepNavSelRange = "{2287, 1}";
+			sepNavVisRange = "{2610, 993}";
+			sepNavWindowFrame = "{{15, 0}, {1049, 778}}";
+		};
+	};
+	2715EAD212BD4E3600B8FA2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* KextcacheHelper.h */;
+		name = "KextcacheHelper.h: 33";
+		rLen = 0;
+		rLoc = 784;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 0;
+	};
+	2715EADE12BD511200B8FA2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* KextcacheHelper.cpp */;
+		name = "KextcacheHelper.cpp: 102";
+		rLen = 1;
+		rLoc = 2287;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 2610;
+	};
+	2715EADF12BD511200B8FA2B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			OSBundleLibraries,
+			com.apple.kpi.libkern,
+		);
+		name = /Users/meklort/Documents/kextcacheHelper/Info.plist;
+		rLen = 0;
+		rLoc = 0;
+	};
+	2715EAE512BD511B00B8FA2B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleShortVersionString,
+		);
+		name = /Users/meklort/Documents/kextcacheHelper/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2715EAE612BD511B00B8FA2B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* KextcacheHelper.h */;
+		name = "KextcacheHelper.h: 33";
+		rLen = 0;
+		rLoc = 784;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 0;
+	};
+	274B022F12B069530047ABD5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* KextcacheHelper.h */;
+		name = "KextcacheHelper.h: 36";
+		rLen = 0;
+		rLoc = 818;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 48;
+	};
+	27CFE46D127143100077BAEE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27CFE46E127143100077BAEE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27CFE4751271434B0077BAEE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	32D94FC30562CBF700B6AF17 /* KextcacheHelper */ = {
+		activeExec = 0;
+	};
+}
